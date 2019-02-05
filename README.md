@@ -13,5 +13,6 @@ Because I love [Vivaldi browser](https://vivaldi.com/), but not necessarily its 
 6. Quit **Vivaldi** and open it again.
 7. Done!
 
-It should look that nice:
+### Preview
+It should look that nice:<br>
 ![screenshot](screen1.png)
